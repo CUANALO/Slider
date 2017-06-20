@@ -28,7 +28,6 @@ class Galeria extends React.Component { // eslint-disable-line react/prefer-stat
           original: 'http://lorempixel.com/1000/600/nature/1/',
           thumbnail: 'http://lorempixel.com/250/150/nature/1/',
 
-
         },
         {
           original: 'http://lorempixel.com/1000/600/nature/2/',
@@ -58,7 +57,6 @@ class Galeria extends React.Component { // eslint-disable-line react/prefer-stat
           showFullscreenButton={false}
           slideOnThumbnailHover={true}
           autoPlay={true}
-
         />
 
       );
